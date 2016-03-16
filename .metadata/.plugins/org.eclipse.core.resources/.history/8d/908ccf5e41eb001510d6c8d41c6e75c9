@@ -1,0 +1,11 @@
+/**
+ * 继承类使用的简单呈现
+ * @author ycl
+ *
+ */
+public class BasicExtends {
+	
+	public BasicExtends(){
+		
+	}
+}

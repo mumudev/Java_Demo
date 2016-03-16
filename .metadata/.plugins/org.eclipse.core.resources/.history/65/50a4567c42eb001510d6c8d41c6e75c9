@@ -1,0 +1,13 @@
+/**
+ * 
+ * @author ycl
+ *
+ */
+public interface BasicInterface {
+	public BasicInterface(){
+		
+	}
+	public void TestA();
+	
+	public void TestB();
+}

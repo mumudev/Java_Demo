@@ -1,0 +1,16 @@
+
+public class DemoInterface implements BasicInterface{
+
+	@Override
+	public void TestA() {
+		// TODO Auto-generated method stub
+		System.out.println("继承后，TestA方法的实现");
+	}
+
+	@Override
+	public void TestB() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

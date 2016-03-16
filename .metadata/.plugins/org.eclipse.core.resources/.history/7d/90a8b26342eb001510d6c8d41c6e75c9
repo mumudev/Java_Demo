@@ -1,0 +1,8 @@
+/**
+ * 
+ * @author ycl
+ *
+ */
+public interface BasicInterface {
+	public void TestA();
+}

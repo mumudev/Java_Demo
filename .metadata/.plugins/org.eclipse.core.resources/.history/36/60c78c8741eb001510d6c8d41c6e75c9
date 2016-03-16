@@ -1,0 +1,17 @@
+/**
+ * 继承类使用的简单呈现
+ * @author ycl
+ *
+ */
+public class BasicExtends {
+	
+	public BasicExtends(){
+		//这里是初始化
+		
+		
+	}
+	
+	public void Test(){
+		
+	}
+}

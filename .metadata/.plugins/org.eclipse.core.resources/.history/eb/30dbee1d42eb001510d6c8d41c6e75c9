@@ -1,0 +1,9 @@
+/**
+ * 这是继承的代码的实现
+ * @author ycl
+ *
+ */
+public class DemoExtends extends BasicExtends {
+
+	
+}

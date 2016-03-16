@@ -1,0 +1,10 @@
+/**
+ * 
+ * @author ycl
+ *
+ */
+public interface BasicInterface {
+	public return_type name() {
+		
+	}
+}
