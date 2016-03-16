@@ -9,7 +9,7 @@ public abstract class BasicAbstract {
 	public void testA() {
 		System.out.println("这个方法在抽象类中实现");
 	}
-	
+	 
 	public abstract void testB();
 	
 //	public void testC();
