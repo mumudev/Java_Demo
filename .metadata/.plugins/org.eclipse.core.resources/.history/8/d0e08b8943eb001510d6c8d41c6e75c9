@@ -1,9 +1,0 @@
-/**
- * 抽象方法可以实现部分方法，可以容纳抽象方法
- * 但是不能直接被实例化，只能被继承后实现
- * @author ycl
- *
- */
-public abstract class BasicAbstract {
-	
-}
