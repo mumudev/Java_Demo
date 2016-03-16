@@ -5,6 +5,7 @@
  */
 public class BasicExtends {
 	
+	protected String string = "继承类中的变量protected定义可以被访问和修改";
 	public BasicExtends(){
 		//这里是初始化
 		System.out.println("这是继承时，基类的构建");
